@@ -49,10 +49,6 @@ The project follows an **Inertia-driven SPA** architecture, allowing for the dev
 
 ### 📋 Dashboard Overview ![Dashboard](screenshots/dashboard.png) ### 📋 Orders Overview ![Orders](screenshots/orders.png) ### 📋 Clients Overview ![Orders](screenshots/orders.png)
 
-| Dashboard Overview | Client Management |
-| :---: | :---: |
-| ![Dashboard Placeholder](https://via.placeholder.com/800x450?text=Dashboard+Overview) | ![Clients Placeholder](https://via.placeholder.com/800x450?text=Clients+Management) |
-
 ## 📥 Installation
 
 Ensure you have [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/) installed.
